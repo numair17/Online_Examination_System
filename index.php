@@ -93,7 +93,7 @@ if (isset($_POST['login'])) {
 </style>
 
 <body style="margin:0;height: 100%;ouline:none;color: #7e7e7ef !important;padding-botton:5vw;">
-    <div class="bg" style="font-weight: bolder;background-image: url(./images/rakesh.png);background-repeat: no-repeat;padding: 0;margin: 0;background-size: cover;font-family: 'Courier New', Courier, monospace;opacity: 0.9;height: 100%;">
+    <div class="bg" style="font-weight: bolder;background-image: url(./background.png);background-repeat: no-repeat;padding: 0;margin: 0;background-size: cover;font-family: 'Courier New', Courier, monospace;opacity: 0.9;height: 100%;">
         <center>
             <h1 style=" color:#fff;text-transform: uppercase;width: auto;background:#000;padding: 1vw;">ONLINE
                 Examination System</h1>
